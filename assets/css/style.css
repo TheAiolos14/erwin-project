@@ -187,6 +187,7 @@ nav a:hover{
 	margin-top: 15%;
 	color: #d1a821;
 	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
 }
 
 .titleYear2{
@@ -198,7 +199,7 @@ nav a:hover{
 #project{
 	background-color: #cdcecf;
 	margin-top: -10%;
-	height: 1100px;
+	height: 1250px;
 	margin-bottom: 0%;
 	margin-top: -12%;
 
@@ -251,6 +252,17 @@ nav a:hover{
 	margin-bottom: 5%;
 	border: 3px solid white;
 
+}
+
+.btnProject{
+	width: 10%;
+	background-color: #353637;
+	color: white;
+	margin-top: -1%;
+}
+
+.btnProject:hover{
+	color: white !important;
 }
 
 #service{
