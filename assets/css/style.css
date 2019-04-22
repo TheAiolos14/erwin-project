@@ -255,7 +255,7 @@ nav a:hover{
 }
 
 .btnProject{
-	width: 10%;
+	width: 12%;
 	background-color: #353637;
 	color: white;
 	margin-top: -1%;
@@ -370,4 +370,176 @@ nav a:hover{
 .logoFooterEdited{
 	margin-left: 10%;
 	margin-top: 3%;
+}
+
+/*Project Page*/
+
+.projectDetail{
+	height: 1200px;
+	background-color: #353637;
+	background-image: url("../../success.png");
+	background-size: 100% 1200px;
+
+}
+
+.titleProjectDetail{
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.imgProject1{
+	margin-top: 5%;
+	margin-left: 20%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("1.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject2{
+	margin-top: 5%;
+	margin-left: 5%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("2.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject3{
+	margin-top: 5%;
+	margin-left: 4%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("3.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject4{
+	margin-top: 5%;
+	margin-left: 20%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("4.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject5{
+	margin-top: 5%;
+	margin-left: 5%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("6.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject6{
+	margin-top: 5%;
+	margin-left: 4%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("7.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto;
+    margin-top: 5%;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+}
+
+.modal-content {
+    background-color: #353637;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+
+}
+
+.imgModal{
+	margin-left: 2%;
+}
+
+.close1 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close2 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close3 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close4 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close5 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close6 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.titleProjectDescription{
+	width: 40%;
+	float: right;
+	margin-left: 10%;
+	margin-top: -30%;
+	color: black;
+	font-size: 30pt;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.description{
+	width: 40%;
+	float: right;
+	margin-top: -22%;
+	margin-left: 5%;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
 }
