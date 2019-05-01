@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b9bbed-4fa4-4b0b-8250-9d9dc76843e8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/gallery-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/project-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/location.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/01.jpg" beforeDir="false" />
@@ -121,7 +135,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
