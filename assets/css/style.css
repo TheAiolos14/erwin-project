@@ -300,9 +300,9 @@ nav a:hover{
 #contact{
 	margin-top: -2%;
 	background-image: url("../../contact.png");
-	background-size: 100% 600px;
+	background-size: 100% 610px;
 	background-position: cover;
-	height: 600px;
+	height: 610px;
 	color: white;
 }
 
