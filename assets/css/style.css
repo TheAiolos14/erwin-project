@@ -385,7 +385,6 @@ nav a:hover{
 	background-color: #353637;
 	background-image: url("../../success.png");
 	background-size: 100% 1200px;
-
 }
 
 .titleProjectDetail{
@@ -531,6 +530,7 @@ nav a:hover{
     font-size: 28px;
     font-weight: bold;
 }
+
 .titleProjectDescription{
 	width: 40%;
 	float: right;
@@ -548,4 +548,58 @@ nav a:hover{
 	margin-left: 3%;
 	color: black;
 	font-family: 'Open Sans', sans-serif;
+}
+
+.btnProjectDetail{
+	width: 12%;
+	background-color: #353637;
+	color: white;
+	margin-top: 6%;
+	margin-left: 7%;
+}
+
+/*Project Detail*/
+.projectDetailNew{
+	height: 1950px;
+	background-color: #353637;
+	background-image: url("../../success.png");
+	background-size: 100% 1950px;
+}
+
+.projectDetailImage{
+	background-image: url("../../about.jpeg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.titleProjectDetailDescription{
+	width: 40%;
+	float: right;
+	margin-left: 15%;
+	margin-top: -21%;
+	color: white;
+	font-size: 30pt;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.projectDetailDescription{
+	width: 40%;
+	float: right;
+	margin-left: 15%;
+	margin-top: -15%;
+	color: white;
+	font-size: 16pt;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#myCarousel{
+	position: center;
+	margin-top: 8%;
+}
+
+.carousel-inner{
+	height: 50%;	
 }
