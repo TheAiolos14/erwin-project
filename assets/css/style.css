@@ -560,10 +560,10 @@ nav a:hover{
 
 /*Project Detail*/
 .projectDetailNew{
-	height: 1950px;
+	height: 2100px;
 	background-color: #353637;
 	background-image: url("../../success.png");
-	background-size: 100% 1950px;
+	background-size: 100% 2100px;
 }
 
 .projectDetailImage{
@@ -598,8 +598,17 @@ nav a:hover{
 #myCarousel{
 	position: center;
 	margin-top: 8%;
+	margin-bottom: 5%;f
 }
 
 .carousel-inner{
 	height: 50%;	
+}
+
+
+#contact3{
+	margin-top: -3%;
+	background-color: #cdcecf;
+	height: 300px;
+	color: black;
 }
