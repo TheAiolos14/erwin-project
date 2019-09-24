@@ -381,10 +381,10 @@ nav a:hover{
 /*Project Page*/
 
 .projectDetail{
-	height: 1200px;
+	height: 1600px;
 	background-color: #353637;
 	background-image: url("../../success.png");
-	background-size: 100% 1200px;
+	background-size: 100% 1600px;
 }
 
 .titleProjectDetail{
@@ -400,7 +400,7 @@ nav a:hover{
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-image: url("01.png");
+	background-image: url("adidas.jpg");
 	background-size: 100% 300px;
 	background-position: cover
 }
@@ -411,7 +411,7 @@ nav a:hover{
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-image: url("02.png");
+	background-image: url("berkah.jpg");
 	background-size: 100% 300px;
 	background-position: cover
 }
@@ -422,7 +422,7 @@ nav a:hover{
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-image: url("03.png");
+	background-image: url("ducon.png");
 	background-size: 100% 300px;
 	background-position: cover
 }
@@ -433,7 +433,7 @@ nav a:hover{
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-image: url("04.png");
+	background-image: url("eagle.jpg");
 	background-size: 100% 300px;
 	background-position: cover
 }
@@ -444,22 +444,54 @@ nav a:hover{
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-image: url("05.png");
+	background-image: url("hosana.jpg");
 	background-size: 100% 300px;
 	background-position: cover
 }
 
 .imgProject6{
 	margin-top: 5%;
-	margin-left: 4%;
+	margin-left: 5%;
 	border: 5px solid white;
 	width: 50%;
 	height: 300px;
-	background-color: black;
-	color: white;
+	background-image: url("maccon.jpg");
+	background-size: 100% 300px;
 	background-position: cover
 }
 
+.imgProject7{
+	margin-top: 5%;
+	margin-left: 20%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("macro.png");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject8{
+	margin-top: 5%;
+	margin-left: 5%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("manunggal.jpg");
+	background-size: 100% 300px;
+	background-position: cover
+}
+
+.imgProject9{
+	margin-top: 5%;
+	margin-left: 5%;
+	border: 5px solid white;
+	width: 50%;
+	height: 300px;
+	background-image: url("victory.png");
+	background-size: 100% 300px;
+	background-position: cover
+}
 
 .modal {
     display: none;
@@ -531,6 +563,27 @@ nav a:hover{
     font-weight: bold;
 }
 
+.close7 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close8 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close9 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
 .titleProjectDescription{
 	width: 40%;
 	float: right;
@@ -567,7 +620,7 @@ nav a:hover{
 }
 
 .projectDetailImage{
-	background-image: url("../../about.jpeg");
+	background-image: url("../image/newImage/Maccon/3.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -611,4 +664,79 @@ nav a:hover{
 	background-color: #cdcecf;
 	height: 300px;
 	color: black;
+}
+
+/* Project Detail */
+
+.projectDetailImageAdidas{
+	background-image: url("../image/newImage/Adidas/1.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+	transform: rotate(90deg);
+}
+
+.projectDetailImageBerkah{
+	background-image: url("../image/newImage/Berkah/3.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageDucon{
+	background-image: url("../image/newImage/Ducon/2.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageEagle{
+	background-image: url("../image/newImage/Eaglenice/1.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageHosana{
+	background-image: url("../image/newImage/Hosana/2.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageMacro{
+	background-image: url("../image/newImage/Macro/4.png");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageManunggal{
+	background-image: url("../image/newImage/Manunggal/1.jpg");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
+}
+
+.projectDetailImageVictory{
+	background-image: url("../image/newImage/Victory/1.png");
+	background-size: 100% 350px;
+	width: 20% !important;
+	height: 350px;
+	margin-top: 10%;
+	margin-left: 22% !important;
 }
