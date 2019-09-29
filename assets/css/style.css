@@ -650,20 +650,22 @@ nav a:hover{
 
 #myCarousel{
 	position: center;
-	margin-top: 8%;
-	margin-bottom: 5%;f
+	margin-top: 15%;
+	height: 750px;
+	width: 1550px;
 }
 
 .carousel-inner{
-	height: 50%;	
+	height: 100%;	
 }
 
 
 #contact3{
-	margin-top: -3%;
+	margin-top: -20%;
 	background-color: #cdcecf;
 	height: 300px;
 	color: black;
+	margin-bottom: -10%
 }
 
 /* Project Detail */
