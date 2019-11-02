@@ -651,12 +651,13 @@ nav a:hover{
 #myCarousel{
 	position: center;
 	margin-top: 15%;
-	height: 750px;
+	height: 100%;
+	width: 100%;
 }
 
 .carousel-inner{
+	width: 100% !important;	
 	height: 100% !important;
-	width: 100%;	
 }
 
 
