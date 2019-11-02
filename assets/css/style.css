@@ -655,7 +655,8 @@ nav a:hover{
 }
 
 .carousel-inner{
-	height: 100% !important;	
+	height: 100% !important;
+	width: 100%;	
 }
 
 
