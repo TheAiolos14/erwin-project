@@ -1,0 +1,14 @@
+#Saputra 
+
+Perkembangan untuk Bab IV :
+- Sudah menggunakan ARIMA akan tetapi tidak menghasilkan hasil yang begitu baik dengan menggunakan data week ke 1-66 untuk predict week 67
+Mendapatkan RMSE dan MAE juga tinggi 
+
+- Sudah menggunakan multivariate untuk mencoba predict menggunakan fitur Quantity dan juga price akan tetapi mengalami kendala karena VAR adalah ada harga yang trend="c" atau constant sehingga mengalami kendala error. Akan tetapi VAR bisa dikatakan sebagai algoritma yang menarik 
+
+- Sudah juga menggunakan Prophet. Dapat dikatakan prophet jauh lebih baik dibanding ARIMA menurut saya akan tetapi harus didalami lagi untuk prophet dan ARIMA juga
+
+> Masalah LSTM :
+- Saputra rada bingung untuk mencari fitur. Penerapan di LSTM juga bingung how to make it ?
+- Udah bisa statistic tapi bingung buat LSTM. I am still confuss
+

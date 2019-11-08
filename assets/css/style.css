@@ -620,7 +620,7 @@ nav a:hover{
 }
 
 .projectDetailImage{
-	background-image: url("../image/newImage/Maccon/3.jpg");
+	background-image: url("../image/newImage/Maccon/2.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -672,17 +672,16 @@ nav a:hover{
 /* Project Detail */
 
 .projectDetailImageAdidas{
-	background-image: url("../image/newImage/Adidas/1.jpg");
+	background-image: url("../image/newImage/Adidas/8.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
 	margin-top: 10%;
 	margin-left: 22% !important;
-	transform: rotate(90deg);
 }
 
 .projectDetailImageBerkah{
-	background-image: url("../image/newImage/Berkah/3.jpg");
+	background-image: url("../image/newImage/Berkah/9.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -691,7 +690,7 @@ nav a:hover{
 }
 
 .projectDetailImageDucon{
-	background-image: url("../image/newImage/Ducon/2.jpg");
+	background-image: url("../image/newImage/Ducon/3.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -700,7 +699,7 @@ nav a:hover{
 }
 
 .projectDetailImageEagle{
-	background-image: url("../image/newImage/Eaglenice/1.jpg");
+	background-image: url("../image/newImage/Eaglenice/4.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -718,7 +717,7 @@ nav a:hover{
 }
 
 .projectDetailImageMacro{
-	background-image: url("../image/newImage/Macro/4.png");
+	background-image: url("../image/newImage/Macro/2.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -736,7 +735,7 @@ nav a:hover{
 }
 
 .projectDetailImageVictory{
-	background-image: url("../image/newImage/Victory/1.png");
+	background-image: url("../image/newImage/Victory/5.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
