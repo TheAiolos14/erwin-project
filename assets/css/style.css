@@ -265,6 +265,14 @@ nav a:hover{
 	color: white !important;
 }
 
+.btnProjectGallery{
+	width: 100%;
+	background-color: #d1a821;;
+	color: white;
+	margin-top: 20%;
+}
+
+
 #service{
 	background-color: #353637;
 	color: white;
@@ -339,7 +347,7 @@ nav a:hover{
 	margin-top: 10%;
 	background-color: #353637;
 	color: white;
-	height: 1000px;
+	height: 1100px;
 }
 
 .titleGallery{
@@ -672,7 +680,7 @@ nav a:hover{
 /* Project Detail */
 
 .projectDetailImageAdidas{
-	background-image: url("../image/newImage/Adidas/8.jpg");
+	background-image: url("../image/newImage/Adidas/6.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
@@ -681,7 +689,7 @@ nav a:hover{
 }
 
 .projectDetailImageBerkah{
-	background-image: url("../image/newImage/Berkah/9.jpg");
+	background-image: url("../image/newImage/Berkah/7.jpg");
 	background-size: 100% 350px;
 	width: 20% !important;
 	height: 350px;
