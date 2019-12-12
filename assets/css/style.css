@@ -664,6 +664,7 @@ nav a:hover{
 }
 
 .carousel-inner{
+	position: center !important;
 	width: 100% !important;	
 	height: 100% !important;
 }
